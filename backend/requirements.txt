@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-Cors==3.0.10
+py2neo==2021.2.3
+beautifulsoup4==4.9.3
+requests==2.25.1
+reportlab==3.5.67

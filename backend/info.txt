@@ -1,0 +1,15 @@
+Set Up Google Custom Search API:
+
+Go to the Google Custom Search Engine and create a new search engine.
+Obtain the API key and Search Engine ID from the Google Developers Console.
+
+pip install google-api-python-client -- in terminal
+
+follow for instructions: https://developers.google.com/custom-search/v1/overview
+--------------------------------------------------------------------------------------
+https://community.intel.com/t5/Programmable-Devices/Problems-getting-started-in-Quartus-2-and-Altera-FPGA-board/td-p/103196
+https://www.analog.com/en/resources/reference-designs/fpga-compatible-reference-designs/altera-fpga-solutions.html
+https://www.eejournal.com/article/intel-plans-to-spin-off-fpga-group-as-an-independent-company-nine-years-after-buying-altera/
+
+
+------------------------------------------------------------------------------------------
